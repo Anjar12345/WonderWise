@@ -92,7 +92,7 @@ Developed with dedication by:
 - Anjar Alam
 - Anshu Upadhyay
 - Jain Ketan
-  Special thanks to our mentors, contributors, and the developer community.
+-  Special thanks to our mentors, contributors, and the developer community.
 - Dr. Sandeep Kumar Mathariya
 ---
 
